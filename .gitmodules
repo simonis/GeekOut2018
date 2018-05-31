@@ -1,0 +1,4 @@
+[submodule "HotspotIntrinsics"]
+	path = HotspotIntrinsics
+	url = https://github.com/simonis/HotspotIntrinsics
+	branch = GeekOut2018
